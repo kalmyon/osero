@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="osero/osero.vcxproj" Id="433bbedd-2619-4b47-b26d-e96fc940ec75" />
+</Solution>
